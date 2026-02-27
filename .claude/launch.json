@@ -4,7 +4,7 @@
     {
       "name": "excess-sa",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["serve", "-p", "5050", "public"],
+      "runtimeArgs": ["serve", "-p", "5050", "docs"],
       "port": 5050
     }
   ]

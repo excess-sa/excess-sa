@@ -33,7 +33,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public       # carpeta raíz del sitio
+          path: ./docs         # carpeta raíz del sitio
 
       - name: Deploy to GitHub Pages
         id: deployment
